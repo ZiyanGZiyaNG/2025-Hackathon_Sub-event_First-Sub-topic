@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# PyInstaller output folders
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
